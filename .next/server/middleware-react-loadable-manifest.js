@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"rainfall-forecast.jsx -> react-apexcharts\":{\"id\":\"rainfall-forecast.jsx -> react-apexcharts\",\"files\":[\"static/chunks/node_modules_react-apexcharts_dist_react-apexcharts_min_js.js\"]}}"
